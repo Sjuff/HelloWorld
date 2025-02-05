@@ -1,4 +1,4 @@
-﻿namespace Assignment1;
+﻿namespace workspace;
 
 class Program
 {
